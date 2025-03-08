@@ -4,17 +4,17 @@ A curated list of awesome projects, tools, and resources in the **Sonic Blockcha
 
 ## 📌 Table of Contents
 
-- [Introduction](#introduction)
-- [Official Resources](#official-resources)
-- [Development Tools](#development-tools)
-- [DEXes (Decentralized Exchanges)](#dexes-decentralized-exchanges)
-- [DeFi (Decentralized Finance)](#defi-decentralized-finance)
-- [NFTs & Gaming](#nfts--gaming)
-- [Wallets & Bridges](#wallets--bridges)
-- [Social & DAOs](#social--daos)
-- [Oracles & Data](#oracles--data)
-- [Community & Education](#community--education)
-- [Contributing](#contributing)
+- [Introduction](#-introduction)
+- [Official Resources](#-official-resources)
+- [Development Tools](#-development-tools)
+- [DEXes (Decentralized Exchanges)](#-dexes-decentralized-exchanges)
+- [DeFi (Decentralized Finance)](#-defi-decentralized-finance)
+- [NFTs & Gaming](#-nfts--gaming)
+- [Wallets & Bridges](#-wallets--bridges)
+- [Social & DAOs](#-social--daos)
+- [Oracles & Data](#-oracles--data)
+- [Community & Education](#-community--education)
+- [Contributing](#-contributing)
 
 ---
 
@@ -22,7 +22,7 @@ A curated list of awesome projects, tools, and resources in the **Sonic Blockcha
 
 Welcome to the **Awesome Sonic** list! This is a community-driven initiative to help users, developers, and investors discover the best projects and tools in the Sonic blockchain ecosystem.
 
-> ⚡ **Want to contribute?** See the [Contributing](#contributing) section below!
+> ⚡ **Want to contribute?** See the [Contributing](#-contributing) section below!
 
 ---
 
@@ -53,13 +53,13 @@ Welcome to the **Awesome Sonic** list! This is a community-driven initiative to 
 
 ## 💰 DeFi (Decentralized Finance)
 
-> How to [contribute](#contributing)
+> How to [contribute](#-contributing)
 
 ---
 
 ## 🎮 NFTs & Gaming
 
-> How to [contribute](#contributing)
+> How to [contribute](#-contributing)
 
 ---
 
@@ -71,7 +71,7 @@ Welcome to the **Awesome Sonic** list! This is a community-driven initiative to 
 
 ## 🏛 Social & DAOs
 
-> How to [contribute](#contributing)
+> How to [contribute](#-contributing)
 
 ---
 
